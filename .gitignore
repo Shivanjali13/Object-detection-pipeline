@@ -1,0 +1,14 @@
+#Virtual environment
+venv/
+
+#YOLO weights(large files)
+*.weights
+
+#Output files
+*.jpg
+*.jpeg
+*.png
+
+#Python cache
+__pycache__/
+*.pyc
